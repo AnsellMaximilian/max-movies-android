@@ -10,7 +10,6 @@ import com.google.gson.Gson
 import io.github.ansellmaximilian.maxmovies.BuildConfig
 import io.github.ansellmaximilian.maxmovies.model.ApiError
 import io.github.ansellmaximilian.maxmovies.network.movieService
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import retrofit2.HttpException
 
