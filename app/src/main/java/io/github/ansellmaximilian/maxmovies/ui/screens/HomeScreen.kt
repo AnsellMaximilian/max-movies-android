@@ -82,7 +82,7 @@ fun HomeScreen(viewModel: MovieViewModel = viewModel()) {
                                 Text(
                                     text= movie.title,
                                     fontWeight = FontWeight.Bold,
-                                    style = MaterialTheme.typography.titleLarge
+                                    style = MaterialTheme.typography.titleMedium
                                 )
                                 Text(
                                     text= movie.overview,
